@@ -1,0 +1,2 @@
+> **Obsidian** is a flexible and open app that lets you store, link, and publish your notes on any device. You can shape **Obsidian** with plugins, themes, and a graph view to spark your thinking and organize your knowledge.
+> - https://obsidian.md/

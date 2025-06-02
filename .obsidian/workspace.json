@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "610a4992f234c9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "76eeed32f67fba8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c058b99c3e503aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etusivu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Etusivu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e88d76b9b0ba58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "305cb402cee448a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ced8d0162e78d0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b9dbd816c70167b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b01e90249ef5d7b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "28655de0a07bf22e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0b24137eb88785",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Etusivu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Etusivu"
+            }
+          },
+          {
+            "id": "b94a1963be31460a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Etusivu.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Etusivu"
+            }
+          },
+          {
+            "id": "786122ea6661b61b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Etusivu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Etusivu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c058b99c3e503aa",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Etusivu.md",
+    "Obsidian.md"
+  ]
+}
